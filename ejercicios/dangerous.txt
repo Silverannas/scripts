@@ -1,0 +1,10 @@
+/home/anna/scripts
+/home/anna/snap/snap-store/599/.config/dconf/user
+/home/anna/snap/firefox/2277/.themes
+/home/anna/snap/firefox/2277/.config/dconf/user
+/home/anna/snap/firefox/2277/.config/ibus/bus
+/home/anna/snap/firefox/2277/.config/gtk-2.0/gtkfilechooser.ini
+/home/anna/snap/firefox/2277/.config/gtk-3.0/settings.ini
+/home/anna/snap/firefox/2277/.config/gtk-3.0/bookmarks
+/home/anna/snap/firefox/2277/.local/share/themes
+/home/anna/bastionado

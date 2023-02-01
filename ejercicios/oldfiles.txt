@@ -1,0 +1,6 @@
+/home/dev2
+/home/bk2
+/home/autor2
+/home/anna/.cache/tracker3/files/last-crawl.txt
+/home/anna/unidad4/scripts/clase/scanner.sh
+/home/anna/.lesshst
